@@ -18,6 +18,7 @@ public class JavaReview {
         // TODO code application logic here
         
         System.out.print("HELLO WORLD!");
+        System.out.println("Hey!");
     }
     
 }
