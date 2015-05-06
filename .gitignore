@@ -10,3 +10,34 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/HelloWorld/nbproject/private/
+/01HelloWorldServlet/nbproject/private/
+/01HelloWorldServlet/build/
+/02HelloWorldServlet/nbproject/private/
+/02HelloWorldServlet/build/
+/03HelloWorldServlet/nbproject/private/
+/03HelloWorldServlet/build/
+/04HelloWorldServlet/nbproject/private/
+/04HelloWorldServlet/build/
+/05HelloWorldServlet/nbproject/private/
+/05HelloWorldServlet/build/
+/06HelloWorldServlet/nbproject/private/
+/06HelloWorldServlet_/nbproject/private/
+/06HelloWorldServlet/build/
+/07HelloWorldServlet/nbproject/private/
+/07HelloWorldServlet/build/
+/08HelloWorldServlet/nbproject/private/
+/08HelloWorldServlet/build/
+/09HelloWorldServlet/nbproject/private/
+/09MVC/nbproject/private/
+/09MVC/build/
+/09MVC/dist/
+/10MVC/nbproject/private/
+/10MVC/build/
+/LoginMVC/nbproject/private/
+/09LoginMVC/nbproject/private/
+/09LoginMVC/build/
+/10LoginMVC/nbproject/private/
+/10LoginMVC/build/
+/11LoginMVC/nbproject/private/
+/11LoginMVC/build/
