@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 List of exercises
 
 1. Understanding HTTP request and response
@@ -18,3 +19,6 @@ List of exercises
 16. Filters for authentication and logging.
 17. 
 
+=======
+Basics of J2EE
+>>>>>>> 07f20b8f5b0a99a9907b44b727a5535a38fcf468
