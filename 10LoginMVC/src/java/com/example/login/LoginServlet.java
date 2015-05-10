@@ -18,6 +18,7 @@ import javax.servlet.http.HttpSession;
 /**
  *
  * @author DCS
+ * Exercise 10:Login MVC. Checks bean. No logout. With session attribute.
  */
 public class LoginServlet extends HttpServlet {
 

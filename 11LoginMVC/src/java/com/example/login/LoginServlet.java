@@ -18,6 +18,7 @@ import javax.servlet.http.HttpSession;
 /**
  *
  * @author DCS
+ * Exercise 11: Taking from exercise 10, this implements logout.
  */
 public class LoginServlet extends HttpServlet {
 

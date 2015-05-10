@@ -17,6 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  *
  * @author DCS
+ * Exercise 9:Login MVC. Checks bean. No session attribute.
  */
 public class LoginServlet extends HttpServlet {
 
