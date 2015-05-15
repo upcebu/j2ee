@@ -17,7 +17,11 @@ List of exercises
 14. MVC with database and using properties file. 
 15. Implementing CRUD in MVC. 
 16. Filters for authentication and logging.
-17. 
+17. Implement listeners on session lifecycle and events. Can be used to count total tries to login. 
+18.  Implement listeners on session lifecycle and events. Counting of total active sessions. 
+19. Implement listeners on session lifecycle and events. Implementing timeout by redirection when clicking any webpage.
+20. Factor out session checking and redirection jsp pages. 
+21. Automatic redirection after session timeout. (unfinished)
 
 =======
 Basics of J2EE
