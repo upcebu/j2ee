@@ -38,6 +38,7 @@ public class RequestLoggingFilter implements Filter{
         while(params.hasMoreElements()){
             String name = params.nextElement();
             String value = req.getParameter(name);
+            
             this.context.log(req.getRemoteAddr()+"::Request Params::{"+name+"="+value+"}");
         }
         fc.doFilter(sr, sr1);
